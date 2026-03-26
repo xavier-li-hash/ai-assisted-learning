@@ -1,139 +1,134 @@
-# AI授课硕士 — 系统学习计划
+# AI硕士预科 — 系统学习计划
 
-> 策略：工程经验为锚，系统补全理论体系
+> 策略：工程经验为锚，系统补全理论体系，提前掌握AI硕士所需全部基础
 
 ---
 
-## 六大模块概览
+## 五阶段总览（36周）
 
 ```
-模块1   数学基础（贯穿始终，每天30分钟）
-模块2   机器学习基础（Week 1–8）
-模块3   深度学习（Week 9–16）
-模块4   NLP与大模型（Week 17–24）
-模块5   推荐系统理论化（Week 25–28）
-模块6   研究方法与论文写作（Week 29–32）
+Phase 1   Python科学计算 + 数学基础    Week  1– 6   ← 当前阶段
+Phase 2   机器学习基础                Week  7–14
+Phase 3   深度学习                    Week 15–22
+Phase 4   NLP与大模型                 Week 23–30
+Phase 5   AI系统工程 + 研究方法        Week 31–36
 ```
 
 ---
 
-## 模块1：数学基础（贯穿始终）
+## Phase 1：Python科学计算 + 数学基础（Week 1–6）
 
-> 每天30分钟，不单独安排，和其他模块并行
+> 优先级最高。你是Java主力，Python科学栈（NumPy/Pandas/PyTorch）需要快速上手。
+> 数学通过代码来学，不死磕抽象公式。
 
-| 主题 | 重点 | 为什么重要 |
+| 周次 | 主题 | 核心内容 |
 |------|------|---------|
-| 线性代数 | 矩阵乘法、特征值、SVD | 推荐系统矩阵分解的基础 |
-| 概率统计 | 贝叶斯、分布、期望、方差 | 所有ML模型的统计基础 |
-| 微积分/梯度 | 偏导数、链式法则、梯度下降 | 理解神经网络训练 |
-
-**学习资源**：
-- 3Blue1Brown《线性代数的本质》（YouTube，直观理解）
-- 《深度学习》（花书）附录数学基础章节
+| Week 1 | Python科学计算 | NumPy·Pandas·Matplotlib·scikit-learn初体验 |
+| Week 2 | 线性代数核心 | 向量·矩阵·特征值·SVD（用NumPy验证） |
+| Week 3 | 概率统计 | 分布·贝叶斯·期望方差·假设检验 |
+| Week 4 | 微积分与优化 | 偏导数·链式法则·梯度下降（手推+代码） |
+| Week 5 | 综合实战1 | 用数学工具实现线性回归（从零不用sklearn） |
+| Week 6 | 综合实战2 + 阶段测试 | 矩阵分解入门·协同过滤初步·阶段自测 |
 
 ---
 
-## 模块2：机器学习基础（Week 1–8）
+## Phase 2：机器学习基础（Week 7–14）
 
 | 周次 | 主题 | 代码实践 |
 |------|------|---------|
-| Week 1 | 监督学习框架 + 线性回归 | sklearn实现 + 手推梯度下降 |
-| Week 2 | 逻辑回归 + 分类评估指标 | 二分类任务 |
-| Week 3 | 决策树 + 随机森林 | 特征重要性分析 |
-| Week 4 | SVM + 核函数 | 对比线性/非线性分类 |
-| Week 5 | 无监督：K-Means + 层次聚类 | 用户聚类demo（贴合工作） |
-| Week 6 | PCA降维 + 特征工程 | 高维数据可视化 |
-| Week 7 | 模型评估：交叉验证、正则化 | 过拟合/欠拟合实验 |
-| Week 8 | 集成学习：XGBoost / LightGBM | 排序模型（CTR预估场景） |
+| Week 7 | 监督学习框架 + 线性回归 | sklearn实现 + 手推梯度下降 |
+| Week 8 | 逻辑回归 + 分类评估指标 | 二分类任务（CTR预估场景） |
+| Week 9 | 决策树 + 随机森林 | 特征重要性分析 |
+| Week 10 | SVM + 核函数 | 对比线性/非线性分类 |
+| Week 11 | 无监督：K-Means + 层次聚类 | 用户聚类demo |
+| Week 12 | PCA降维 + 特征工程 | 高维数据可视化 |
+| Week 13 | 模型评估：交叉验证·正则化 | 过拟合/欠拟合实验 |
+| Week 14 | 集成学习：XGBoost / LightGBM | 排序模型（CTR预估） |
 
 ---
 
-## 模块3：深度学习（Week 9–16）
+## Phase 3：深度学习（Week 15–22）
 
 | 周次 | 主题 | 代码实践 |
 |------|------|---------|
-| Week 9 | 神经网络基础 + 反向传播 | 手写一个两层网络（NumPy） |
-| Week 10 | PyTorch入门 + 自动求导 | 用PyTorch重写Week9的网络 |
-| Week 11 | 优化器（Adam/SGD）+ Batch Norm | 训练稳定性实验 |
-| Week 12 | Embedding层 + 类别特征表示 | 用户/物品Embedding（推荐场景） |
-| Week 13 | RNN + LSTM | 序列行为建模 |
-| Week 14 | Attention机制 | 自注意力理解与实现 |
-| Week 15 | Transformer架构精读 | 实现一个mini-Transformer |
-| Week 16 | 深度模型调优 + 工程化 | 模型保存/加载/推理优化 |
+| Week 15 | 神经网络基础 + 反向传播 | 手写两层网络（NumPy） |
+| Week 16 | PyTorch入门 + 自动求导 | 用PyTorch重写前一周的网络 |
+| Week 17 | 优化器（Adam/SGD）+ BatchNorm | 训练稳定性实验 |
+| Week 18 | Embedding层 + 类别特征 | 用户/物品Embedding |
+| Week 19 | CNN（了解为主） | 图像分类入门 |
+| Week 20 | RNN + LSTM | 序列行为建模 |
+| Week 21 | Attention机制精读 | 自注意力理解与实现 |
+| Week 22 | Transformer架构 | 实现mini-Transformer |
 
 ---
 
-## 模块4：NLP与大模型（Week 17–24）
-
-> 这是他实际工作中接触过的领域（向量检索+ChatGPT），重点深化理论
+## Phase 4：NLP与大模型（Week 23–30）
 
 | 周次 | 主题 | 代码实践 |
 |------|------|---------|
-| Week 17 | Word2Vec + FastText | 训练自己的词向量 |
-| Week 18 | BERT原理精读 | 用HuggingFace跑BERT推理 |
-| Week 19 | GPT系列 + 预训练机制 | 对比BERT vs GPT |
-| Week 20 | RAG系统设计（他的强项，理论化） | 搭一个完整RAG pipeline |
-| Week 21 | Fine-tuning技术（LoRA/PEFT） | 在小数据集上微调模型 |
-| Week 22 | Prompt Engineering系统学习 | 设计evaluation框架 |
-| Week 23 | 向量数据库（Milvus/Faiss） | 实现语义检索demo |
-| Week 24 | 大模型生产部署 | 推理优化：量化/蒸馏/vLLM |
+| Week 23 | Word2Vec + FastText | 训练词向量 |
+| Week 24 | BERT原理精读 | HuggingFace跑BERT推理 |
+| Week 25 | GPT系列 + 预训练机制 | 对比BERT vs GPT |
+| Week 26 | RAG系统理论化（强项） | 搭完整RAG pipeline |
+| Week 27 | Fine-tuning（LoRA/PEFT） | 小数据集微调 |
+| Week 28 | Prompt Engineering | 设计evaluation框架 |
+| Week 29 | 向量数据库（Milvus/Faiss） | 语义检索demo |
+| Week 30 | 大模型生产部署 | 量化·蒸馏·vLLM推理优化 |
 
 ---
 
-## 模块5：推荐系统理论化（Week 25–28）
-
-> 他有10年实战，现在系统学理论，会有"原来如此"的感觉
+## Phase 5：AI系统工程 + 研究方法（Week 31–36）
 
 | 周次 | 主题 |
 |------|------|
-| Week 25 | 协同过滤理论 + 矩阵分解（SVD/NMF） |
-| Week 26 | 深度推荐模型：Wide&Deep、DIN、DIEN |
-| Week 27 | 召回-排序-重排三层架构理论 |
-| Week 28 | 在线学习 + 实时特征更新机制 |
+| Week 31 | 推荐系统理论化：协同过滤·矩阵分解 |
+| Week 32 | 深度推荐模型：Wide&Deep·DIN·DIEN |
+| Week 33 | MLOps：模型监控·AB测试·数据飞轮 |
+| Week 34 | 如何读论文（SQ3R方法 + 精读框架） |
+| Week 35 | 课程项目/论文结构设计 |
+| Week 36 | 综合复习 + 入学前自测 |
 
 ---
 
-## 模块6：研究方法（Week 29–32）
-
-| 周次 | 主题 |
-|------|------|
-| Week 29 | 如何读论文（SQ3R方法 + 精读框架） |
-| Week 30 | 文献综述写法 |
-| Week 31 | 课程项目/论文结构设计 |
-| Week 32 | 写作+答辩准备 |
-
----
-
-## 每日时间分配
+## 每日学习结构
 
 ```
 每天总计 1.5–2 小时
 
-30分钟  — 数学基础（每天）
-45分钟  — 当前模块主题学习
-30分钟  — 代码实践（每天写代码，不只是看）
-15分钟  — 记笔记/整理（可用Claude帮你总结）
+30分钟  — 理论学习（核心概念 + 直觉理解）
+45分钟  — 代码实践（动手跑通，不只是看）
+15分钟  — 练习题（检验理解，答案在文件末尾）
 ```
 
 ---
 
-## 工程目录结构
+## 目录结构
 
 ```
 ai-masters/
-├── README.md                    ← 学习计划 + 核心背景（此文件）
-├── training-guide.md            ← 每日训练操作指南
-├── ml-math/                     ← 模块1：数学基础（贯穿始终）
-│   └── Day1.md                  ← 线性代数入门
-└── module2-ml-basics/           ← 模块2：机器学习基础（Week 1–8）
-    └── Week1-Day1.md            ← Week 1 Day 1: 监督学习框架 + 线性回归
+├── README.md                        ← 学习计划 + 核心背景（此文件）
+├── training-guide.md                ← 每日操作说明
+│
+├── phase1-python-math/              ← 阶段1：Python + 数学基础
+│   ├── Week1-Day1.md                ← NumPy入门
+│   ├── Week1-Day2.md                ← 矩阵运算 + 线性代数
+│   ├── Week1-Day3.md                ← 概率统计基础
+│   ├── Week1-Day4.md                ← Pandas特征处理
+│   └── Week1-Day5.md                ← 综合实战 + 周总结
+│
+├── phase2-ml-basics/                ← 阶段2：机器学习基础
+│   └── Week1-Day1.md                ← 监督学习 + 线性回归
+│
+├── phase3-deep-learning/            ← 阶段3：深度学习（待创建）
+├── phase4-nlp-llm/                  ← 阶段4：NLP与大模型（待创建）
+└── phase5-ai-engineering/           ← 阶段5：AI系统工程（待创建）
 ```
 
-**当前进度（模块2 · Week 1）：** 已完成 Week1-Day1，数学基础 Day1
+**当前进度（Phase 1 · Week 1）：** 已完成 Day 1
 
 ---
 
-# AI授课硕士就读学习 — 核心背景档案
+# 核心背景档案
 
 > Claude每次辅导前必读此文件
 
@@ -141,71 +136,26 @@ ai-masters/
 
 ## 学员背景
 
-- **工程实战**：有ChatGPT+向量检索实战（荔枝集团），推荐系统10年经验
-- **数学基础**：计算机科学学士，有基础但需要强化线代/概率统计
-- **硕士方向**：AI/ML相关授课型硕士（Taught Master）
-- **优势**：工程落地经验丰富，理解业务，缺的是系统理论
+- **工程实战**：推荐系统10年，ChatGPT+向量检索实战（荔枝集团）
+- **语言**：Java主力，Python需要系统练习
+- **数学基础**：有大致了解，需要结合代码系统化
+- **硕士方向**：AI/ML授课型硕士（Taught Master），工程与应用方向
 
 ---
 
 ## 核心学习策略
 
-**工程师学AI硕士的正确姿势：**
-- 先建立理论框架，再和已有工程经验对应
-- 不死磕公式推导，重点理解"为什么这么设计"
-- 每个算法都问：在推荐系统/高并发场景下怎么用？
-
----
-
-## 课程模块规划
-
-```
-模块1：数学基础夯实（贯穿始终）
-  - 线性代数（矩阵、向量空间、SVD）
-  - 概率统计（贝叶斯、分布、假设检验）
-  - 微积分（梯度、链式法则）→ 理解反向传播
-
-模块2：机器学习基础
-  - 监督学习（线性回归、逻辑回归、SVM、决策树）
-  - 无监督学习（K-Means、PCA、聚类）
-  - 模型评估与调优（交叉验证、正则化、偏差方差）
-
-模块3：深度学习
-  - 神经网络基础（前向/反向传播、激活函数）
-  - CNN（图像，了解即可）
-  - RNN/LSTM/Transformer（NLP，与推荐系统密切相关）
-
-模块4：NLP与大模型（核心模块）
-  - Word2Vec、BERT、GPT系列原理
-  - RAG（检索增强生成）→ 他已经有实战
-  - Fine-tuning、Prompt Engineering
-
-模块5：推荐系统理论（他的强项，理论化）
-  - 协同过滤、矩阵分解
-  - 深度推荐模型（DIN、DIEN、Transformer4Rec）
-  - 召回+排序+重排的工程架构
-
-模块6：研究方法与论文阅读
-  - 如何读论文（精读框架）
-  - 如何写课程报告/论文
-```
-
----
-
-## 学习节奏建议
-
-| 类型 | 频率 | 内容 |
-|------|------|------|
-| 理论学习 | 每天1–1.5小时 | 课程内容/教材 |
-| 代码实践 | 每天30–45分钟 | Python/PyTorch实现算法 |
-| 论文阅读 | 每周1–2篇 | 精读经典论文 |
-| 作业/项目 | 按课程要求 | 结合工作项目做 |
+1. **代码优先**：每个数学概念都用Python写出来，不只看公式
+2. **工程类比**：用推荐系统/Java/后端经验类比解释新概念
+3. **问"为什么设计"**：不背公式，理解设计动机
+4. **答案放文件末尾**：做题时不看答案，做完再对照
 
 ---
 
 ## 工具栈
 
-- **语言**：Python（需要熟练，他是Java主力）
-- **框架**：PyTorch（优先）、scikit-learn、HuggingFace
-- **环境**：Jupyter Notebook / Colab
-- **数学工具**：NumPy、Pandas、SciPy
+- **语言**：Python 3.10+
+- **数学工具**：NumPy、SciPy、Pandas
+- **ML框架**：scikit-learn（Phase 2）、PyTorch（Phase 3+）
+- **NLP**：HuggingFace Transformers
+- **环境**：Jupyter Notebook / Colab / VSCode

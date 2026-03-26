@@ -22,6 +22,10 @@
 
 ## 精听记录
 
+I had been talking the managers with a number of business, and reading the service about the future management.
+And what I am going to present in this seminar, is a few ideas about how the activities likely change in the next ten years.
+It isn't scientific, statistical analysis, just some ideas for us to discuss.
+
 | 漏听的片段 | 原文 | 漏听原因 | 跟读后能听清？ |
 |-----------|------|---------|---------------|
 |  |  |  |  |

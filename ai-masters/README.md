@@ -115,6 +115,21 @@
 15分钟  — 记笔记/整理（可用Claude帮你总结）
 ```
 
+---
+
+## 工程目录结构
+
+```
+ai-masters/
+├── README.md                    ← 学习计划 + 核心背景（此文件）
+├── training-guide.md            ← 每日训练操作指南
+├── ml-math/                     ← 模块1：数学基础（贯穿始终）
+│   └── Day1.md                  ← 线性代数入门
+└── module2-ml-basics/           ← 模块2：机器学习基础（Week 1–8）
+    └── Week1-Day1.md            ← Week 1 Day 1: 监督学习框架 + 线性回归
+```
+
+**当前进度（模块2 · Week 1）：** 已完成 Week1-Day1，数学基础 Day1
 
 ---
 

@@ -150,6 +150,19 @@ docker run -d --name spark \
 # Kafka（已有经验，跳过）
 ```
 
+---
+
+## 工程目录结构
+
+```
+big-data/
+├── README.md                    ← 学习计划 + 核心背景（此文件）
+├── training-guide.md            ← 每日训练操作指南
+└── phase1-architecture/         ← Phase 1：架构全景认知（Week 1–3）
+    └── Week1-Day1.md            ← Week 1 Day 1: Lambda架构层次分析
+```
+
+**当前进度（Phase 1 · Week 1）：** 已完成 Week1-Day1
 
 ---
 

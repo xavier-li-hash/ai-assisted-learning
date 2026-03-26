@@ -97,6 +97,20 @@ Week 13–16  Phase 4：项目实战（高性能后端服务）
 | Phase 2对应 | rustlings/structs、rustlings/traits、rustlings/error_handling |
 | Phase 3对应 | rustlings/threads、rustlings/smart_pointers |
 
+---
+
+## 工程目录结构
+
+```
+rust/
+├── README.md                    ← 学习计划 + 核心背景（此文件）
+├── training-guide.md            ← 每日训练操作指南
+└── phase1-ownership/            ← Phase 1：所有权与借用（Week 1–4）
+    ├── Week1-Day1.md            ← Day 1: Rust安装 + Hello World + Cargo基础
+    └── Week1-Day2.md            ← Day 2: 所有权三原则
+```
+
+**当前进度（Phase 1 · Week 1）：** 已完成 Day 1–2
 
 ---
 

@@ -1,6 +1,6 @@
 # 雅思8周备考计划总览
 
-> 考试时间：2026年5月下旬 | 当前时间：2026年3月20日
+> 考试时间：2026年5月下旬 | 当前时间：2026年3月24日
 
 ---
 
@@ -98,7 +98,7 @@ Week 7–8   冲刺模考期   → 全真模拟 + 专项补弱
 
 ## 基本信息
 
-- **考试日期**：2026年5月下旬（距今约2个月）
+- **考试日期**：2026年5月下旬（距今约8周）
 - **目标分数**：综合提升，每项争取 6.5+
 
 ---
@@ -123,7 +123,7 @@ Week 7–8   冲刺模考期   → 全真模拟 + 专项补弱
   - 第1阶段（Week 1–3）：句子训练 — 逻辑链、具体化、语法控制
   - 第2阶段（Week 4–5）：段落训练 — 主题句+支撑句+收尾
   - 第3阶段（Week 6–8）：完整作文 — Task1图表 + Task2议论文
-- **参考训练风格**：见 `写作/当前AI给我训练.md`（半成品句子补全法）
+- **参考训练风格**：见 `writing/ai-prompt.md`（半成品句子补全法）
 
 ### 口语（Speaking）
 - **现状**：未系统练习
@@ -161,26 +161,55 @@ Week 7–8   冲刺模考期   → 全真模拟 + 专项补弱
 ## 如何使用这个备考工程
 
 ```
-雅思学习/
-├── 核心背景.md         ← 你现在在这里（Claude每次必读）
-├── 学习计划总览.md     ← 8周完整路线图
-├── 写作/
-│   ├── 第1阶段-句子训练/   ← Week 1–3，每天一个文件
-│   ├── 第2阶段-段落训练/   ← Week 4–5
-│   └── 第3阶段-完整作文/   ← Week 6–8
-├── 阅读/
-│   ├── 训练说明.md
-│   └── 每日练习/
-├── 听力/
-│   ├── 训练说明.md
-│   └── 每日练习/
-└── 口语/
-    ├── 训练说明.md
-    └── 每日练习/
+ielts/
+├── README.md                    ← 你现在在这里（Claude每次必读）
+├── checkin-template.md          ← 每日打卡模板
+├── writing/
+│   ├── training-guide.md        ← 写作训练说明
+│   ├── ai-prompt.md             ← 半成品句子补全训练提示词
+│   └── stage1-sentences/        ← 第1阶段：句子训练（Week 1–3）
+│       ├── Week1-Day1.md
+│       ├── Week1-Day2.md
+│       ├── Week1-Day3.md
+│       ├── Week1-Day4.md
+│       └── Week1-Day5.md
+├── reading/
+│   ├── training-guide.md        ← 阅读训练说明
+│   └── daily/                   ← 每日练习（Week 1 已有7天）
+│       ├── Week1-Day1.md        ← T/F/NG 专项训练
+│       ├── Week1-Day2.md        ← 真题复盘模板
+│       ├── Week1-Day3.md        ← 真题复盘（升级版）
+│       ├── Week1-Day4.md        ← 同义替换专项
+│       ├── Week1-Day5.md        ← 长难句拆解专项
+│       ├── Week1-Day6.md        ← Matching Headings
+│       └── Week1-Day7.md        ← Summary Completion + 本周总复习
+├── listening/
+│   ├── training-guide.md        ← 听力训练说明
+│   └── daily/                   ← 每日练习（Week 1 已有5天）
+│       ├── Week1-Day1.md
+│       ├── Week1-Day2.md
+│       ├── Week1-Day3.md
+│       ├── Week1-Day4.md
+│       └── Week1-Day5.md
+└── speaking/
+    ├── training-guide.md        ← 口语训练说明
+    ├── universal-framework.md   ← 通用答题框架
+    ├── topic-bank.md            ← 话题素材库
+    └── daily/                   ← 每日练习（Week 1 已有4天）
+        ├── Week1-Day1.md
+        ├── Week1-Day2.md
+        ├── Week1-Day3.md
+        └── Week1-Day4.md
 ```
 
 **每次训练时告诉Claude**：
-- "今天练写作 Week X Day X"
-- "今天练口语 Week X Day X"
-- "帮我批改这段写作"
-- "给我今天的阅读练习"
+- `"今天练写作 Week X Day X"`
+- `"今天练口语 Week X Day X"`
+- `"帮我批改这段写作"`
+- `"给我今天的阅读练习，我做了真题需要总结"`
+
+**当前进度（Week 1）：**
+- 写作：Stage 1（句子训练）进行中，已完成 Day 1–5
+- 阅读：已完成 Week 1 全部7天（含同义替换、长难句、Matching Headings、Summary Completion）
+- 听力：Week 1 进行中，已完成 Day 1–5
+- 口语：Week 1 进行中，已完成 Day 1–4

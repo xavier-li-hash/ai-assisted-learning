@@ -15,7 +15,7 @@
 
 **RA1.** 他们更有可能患慢性病（❌ more probable to get）
 ```
-→
+→ They are moke likely to get chronic disease.
 ```
 
 ---
@@ -23,7 +23,7 @@
 **RA2.** 用 whereas 连接两个对比信息——改正下句：
 ```
 错误句：Car sales peaked in 2015. Whereas electric vehicle sales rose steadily.
-→
+→ Car sales peaked in 2015 whereas electric vehicle sales rose steadily.
 ```
 
 ---
@@ -32,7 +32,7 @@
 ```
 (a) Who work overtime frequently are more likely to suffer burnout.
 (b) Those who work overtime frequently are more likely to suffer burnout.
-→ 哪个对？为什么？
+→ 哪个对？为什么？B，Who不能直接在开头使用
 ```
 
 ---
@@ -41,14 +41,14 @@
 ```
 (1) She has a __________ (deep/deeply) understanding of grammar.
 (2) He understands grammar __________ (deep/deeply).
-→ (1)_______ (2)_______
+→ (1)____deep___ (2)___deeply____
 ```
 
 ---
 
 **RA5.** 男性的工作时长（❌ working time / work time）
 ```
-→
+→ men's working hour
 ```
 
 ---
@@ -56,7 +56,7 @@
 **RA6.** 改正以下句子中的介词和搭配错误：
 ```
 原句：Factories make noise pollution over cities.
-→
+→ across cities
 ```
 
 ---
@@ -65,21 +65,21 @@
 
 **RB1.** 足够的（ade_______）
 ```
-→
+→ adequate
 ```
 
 ---
 
 **RB2.** 场景，情景（scen_______）
 ```
-→
+→ scenario
 ```
 
 ---
 
 **RB3.** 越来越（increas_______）
 ```
-→
+→ increasing
 ```
 
 ---
@@ -89,7 +89,7 @@
 **RC1.** 改正以下句子的所有错误：
 ```
 原句：By the rapid development of modern living, greenhouse effect tend to be an increasely serious problem.
-错误点（写出所有你能找到的）：
+错误点（写出所有你能找到的）： 
 改正句：
 ```
 
@@ -98,8 +98,9 @@
 **RC2.** 改正以下句子的所有错误：
 ```
 原句：The use of smartphone has significantly increased over the world, and it causes some negative effect across children and adults, which led to less time for reading books and accompany with their fiends.
-错误点：
+错误点：over the world - across the world; across children - among children, led - leads
 改正句：
+The use of smartphone has significantly increased across the world, and it causes some negative effect among children and adults, which leads to less time for reading books and accompany with their friends.
 ```
 
 ---
@@ -126,11 +127,12 @@
 - 科技（人工智能的影响）
 
 **要求：**
-1. 句1：目的句
-2. 句2：因果句
-3. 句3：让步句
-4. 句4：对比句
+1. 句1：目的句 In order to solve traffic congestion, government should take an action to reform traffic regulations and upgrade infrastructure.
+2. 句2：因果句 Because working hours are significantly increasing, most officers cannot maintain daily exercise, leading to rising risk to get chronic disease. 
+3. 句3：让步句 Although online studying has certain advantages such as convenience and low cost for tuition fee, traditional class is vital since it's more interacter.
+4. 句4：对比句 Compared to healthy food, fast food is more convenient and affordable for most individuals. For instance, fast food just take 5RM to 10RM in Malaysia.
 5. 句5：自选句型，必须有"具体化"
+Nowadays, there is a rapid development in artificial intelligence, therefore, those who using AI tools to increase their work efficiency are more likely to get higher production performance.
 
 ---
 
@@ -138,10 +140,10 @@
 
 回顾这一周，打分（1–5分）：
 
-- [ ] 我能写出逻辑因果句？（___/5）
-- [ ] 我能用让步句表达反面观点？（___/5）
-- [ ] 我知道"具体化"是什么意思并能做到？（___/5）
-- [ ] 我的句子基本没有语法大错误？（___/5）
+- [ ] 我能写出逻辑因果句？（__3_/5）
+- [ ] 我能用让步句表达反面观点？（__4_/5）
+- [ ] 我知道"具体化"是什么意思并能做到？（__3_/5）
+- [ ] 我的句子基本没有语法大错误？（__2_/5）
 
 ---
 
@@ -165,14 +167,14 @@ Finally, [the finished product] is [distributed/packaged/stored].
 ```
 流程：原材料 → 被运送到工厂 → 被清洗 → 被切割 → 被包装 → 发送给消费者
 写出前3个步骤的句子：
-First, the raw materials ______.
-They are then ______ before being ______.
+First, the raw materials _are transported to factories_____.
+They are then __washed, cutted and packaged____ before being __sent to customers____.
 ```
 
 **P-2.** 连接两个步骤，用 `Once... it is then...` 句型：
 ```
 流程步骤：水先被过滤，过滤完后才加热。
-你的句子：Once the water ______, it is then ______.
+你的句子：Once the water __is filtered____, it is then __hotted____.
 ```
 
 ---
@@ -200,21 +202,22 @@ The [area] to the north of the river has been developed into ______.
 **M-1.** 描述一处"新增"的变化：
 ```
 地图信息：2020年，学校东边原来是空地，现在建了一个停车场。
-你的句子：To the east of the school, ______ has been replaced by ______.
-或：A ______ has been constructed ______.
+你的句子：To the east of the school, __the empty field___ has been replaced by __a car park____.
+或：A ___new_car park__ has been constructed __to the east of the school____.
 ```
 
 **M-2.** 用 `What was formerly... is now...` 描述用途改变：
 ```
 地图信息：原来的工厂区现在变成了住宅区。
-你的句子：What was formerly ______ is now ______.
+你的句子：What was formerly __factory area____ is now __resident zone____.
 ```
 
 **M-3.** 综合写2句话描述下面的地图变化：
 ```
 假设地图：2000年地图中，河流南边是农田，北边是工厂。
         2020年地图中，农田变成了购物中心，工厂被拆除，北边建了公园。
-你的2句话：______
+你的2句话：__In 2000， field was in the south of the river, and factories in the north.
+But in 2020, the fields in the north of the river had been developed into shopping mall, and factories in the north has been replaced by park.
 ```
 
 ---
@@ -228,6 +231,134 @@ The [area] to the north of the river has been developed into ______.
 | Day 4 | 数据对比句 | compared to / while / the former...the latter |
 | Day 5 | 流程图句 | 被动语态 + 顺序连接词 |
 | Day 5 | 地图描述句 | 位置词 + What was formerly... / has been replaced by |
+
+---
+
+## Day 5 批改反馈
+
+---
+
+### 复习部分
+
+**RA1** — ⚠️ 笔误："moke likely" → **more likely**；答案正确，下次检查拼写。
+
+**RA2** — ✅ 完全正确。
+
+**RA3** — ✅ 选 (b) 并说出理由，正确。
+
+**RA4** — ✅ 完全正确。
+
+**RA5** — ❌ "men's working **hour**" → 缺复数，应为 **men's working hours**（working hours 是固定复数搭配，不可数单数）。
+
+**RA6** — ⚠️ "across cities" 改对了介词；但完整答案是 **generate**（不是 make）+ noise pollution，这次复习只改介词，概念未完整应用。
+
+**RB3** — ❌ "increasing" → 应为 **increasingly**（adverb，修饰形容词 serious 需要 -ly；这是 Day 3 起反复出错的单词，第三次出现）。
+
+**RC1** — ❌ **未作答**。这题的错误点是：① `By` → `With / Due to`；② `tend` → `tends`；③ `increasely` → `increasingly`；④ 缺 `the` greenhouse effect。下周复习题会再考一次。
+
+**RC2** — ⚠️ 找出了主要错误（over/across/among/led→leads），但改正句有两处残留：① "negative **effect**" → **effects**（复数）；② "accompany with their friends" → **spending time with their friends**（accompany 是及物动词，用法不同）。
+
+---
+
+### 今日 5 句批改
+
+**句1（目的句）**
+> In order to solve traffic congestion, government should take an action to reform traffic regulations and upgrade infrastructure.
+
+❌ "**government**" → **the government**（特指，需定冠词）
+❌ "take **an** action" → **take action**（固定短语，不加冠词）
+✅ 其余结构正确。
+
+> 7分版：In order to alleviate traffic congestion, **the** government should **take action** to reform traffic regulations and invest in infrastructure upgrades.
+
+---
+
+**句2（因果句）**
+> Because working hours are significantly increasing, most officers cannot maintain daily exercise, leading to rising risk to get chronic disease.
+
+❌ "**officers**" → **office workers / white-collar workers**（officers = 军官/警官，语义完全不同，这是本周新增的高频错误）
+❌ "rising risk **to get**" → **increased risk of** chronic disease（risk of + noun，不用 to get）
+✅ 分词结构 leading to 使用正确。
+
+> 7分版：Because working hours are significantly increasing, most **office workers** cannot maintain regular exercise, leading to an **increased risk of** chronic disease.
+
+---
+
+**句3（让步句）**
+> Although online studying has certain advantages such as convenience and low cost for tuition fee, traditional class is vital since it's more interacter.
+
+❌ "**interacter**" → 这个词不存在，应为 **interactive**（形容词）
+❌ "low cost for tuition fee" → **lower tuition fees**（比较级 + 名词复数）
+❌ "traditional class" → **traditional classes**（复数）
+
+> 7分版：Although online learning offers certain advantages such as convenience and **lower tuition fees**, **traditional classes** remain vital as they are far more **interactive** and enable real-time feedback from teachers.
+
+---
+
+**句4（对比句）**
+> Compared to healthy food, fast food is more convenient and affordable for most individuals. For instance, fast food just take 5RM to 10RM in Malaysia.
+
+❌ "just **take**" → **costs as little as** 5 to 10 ringgit（take 不搭配价格；costs + as little as 是地道价格表达）
+✅ "Compared to" 用法正确；具体化到马来西亚价格是加分项。
+
+> 7分版：Compared to healthy food, fast food is more convenient and affordable for most individuals. In Malaysia, for instance, a fast food meal **costs as little as** 5 to 10 ringgit.
+
+---
+
+**句5（具体化句）**
+> Nowadays, there is a rapid development in artificial intelligence, therefore, those who using AI tools to increase their work efficiency are more likely to get higher production performance.
+
+❌ "those who **using**" → **those who use**（关系从句中用动词原形，不用 -ing）
+❌ "therefore" 用于句中时需要分号：**; therefore,** 或改写为独立句，否则是逗号粘连（comma splice）
+❌ "get higher **production performance**" → **achieve higher productivity**（production performance 搭配生硬）
+
+> 7分版：Artificial intelligence is advancing rapidly**; therefore**, those who **use** AI tools to enhance efficiency are more likely to **achieve higher productivity** and outperform their peers.
+
+---
+
+### Task 1 句子批改
+
+**P-1 流程图**：
+- "washed, **cutted** and packaged" → ❌ **cut** 是不规则动词，过去式/过去分词仍是 **cut**（cut–cut–cut）
+- 其余结构正确 ✅
+
+> 改正：They are then **washed, cut, and packaged** before being sent to customers.
+
+**P-2 Once 句型**：
+- "it is then **hotted**" → ❌ **hotted** 不存在，加热的动词是 **heated**（heat → heated）
+> 改正：Once the water is filtered, it is then **heated**.
+
+**M-2 地图**：
+- "factory area" → **an industrial area / a factory site**（更地道）
+- "resident zone" → **a residential area**（residential = 形容词，resident 是名词）
+
+**M-3 综合描述**：
+❌ 方向错误："the fields in the **north**" → 应为 "in the **south**"（题目说南边是农田）
+❌ "**had** been developed" → **have been developed** 或 **were developed**（地图描述通常用一般过去时或现在完成时，不用过去完成时）
+❌ "factories in the north **has** been replaced" → **have** been replaced（factories 是复数）
+
+> 7分版：In 2000, **agricultural land** lay to the **south** of the river, while factories occupied the northern bank. By 2020, the farmland in the south **had been transformed into** a shopping centre, while the factories to the north **were replaced by** a public park.
+
+---
+
+### 本周整体评估
+
+| 能力 | 本周表现 | 主要问题 |
+|------|---------|---------|
+| 句型结构 | ⭐⭐⭐⭐ 明显进步 | 5种句型基本掌握 |
+| 具体化 | ⭐⭐⭐ 有时做到 | 偶尔仍用模糊词 |
+| 词汇搭配 | ⭐⭐ 待加强 | officers/hotted/interacter 等新错误 |
+| 语法细节 | ⭐⭐ 待加强 | 复数/冠词/不规则动词 |
+
+**本周新增需要进入 Day 6 复习的高频错误：**
+
+| 错误 | 正确 | 出现次数 |
+|------|------|---------|
+| those who **using** | those who **use** | Day 5 新增 |
+| **hotted** / **cutted** | **heated** / **cut** | Day 5 新增（不规则动词） |
+| **increasing** serious | **increasingly** serious | Day 3–5，第三次 |
+| take **an** action | take **action** | Day 5 新增 |
+| **officers** | **office workers** | Day 5 新增 |
 
 ---
 

@@ -20,7 +20,7 @@
 
 ---
 
-## 精听记录
+## Cambridge IELTS 10 Test 2 Part 4 精听记录
 
 I had been talking the managers with a number of business, and reading the service about the future  management.
 And what I am going to present in this seminar, is a few ideas about how the activity is likely change in the next ten years.
@@ -75,11 +75,42 @@ Management style will  almost certain continue to changed
 Senior managers are required
 a lot about the effiency they were need
 
-About of they need great skills in leadership, so that their organize can 
-negociate ,
-and fast moving work
+About of they need great skills in leadership, so that their organisation can 
+initiate and respond to change in a fast-moving world.
 
-精听（听一句默写一句，错误的地方）
+With they face lots of complated requirements and  potetial complex. conflicts
+
+In most of the world, the senior managers of large businesses are mainly 40 to 
+(men in their fifties and sixties)
+
+The product manage stylement
+because above all
+
+many of the changes are influenced by development in the wide economy
+
+The traditional emphasis work in many factories
+and of course the service setter is very important
+
+But we should overlook the growing financial contribution of IP
+that intera probably 
+
+
+Some books and fields
+generate
+innormal sound from the same , such as 
+dvd music, games, cloth and so on
+
+And other point I like to make, is that all I having been talk about those companies 
+
+The change they have to face 
+is that move away they are working
+from same from years
+
+Instead, more and more people are becoming self-employed, to gain the freedom and control their lives that unlike to get from their employer.
+
+
+### 精听后发现听不出来的地方
+
 surveys 听到，想不起来
 缺少of
 be likely to be是is，和前面的activity连读，导致听不到是单数
@@ -131,6 +162,29 @@ certainly
 Above all
 organisation
 initiate 
+when - where 
+complicate - competing
+potential 拼接
+complex - conflict
+men in their fifties and sixties
+predominant
+collaborative
+consultative
+wide - wider
+factories - manufacturing
+service center - service center
+
+
+should - shouldn't 
+intellectual property
+enormous sums
+sale of related
+cloth - clothes
+And other - another
+one trend - the change 
+same employer
+employer = being employed
+
 
 | 漏听的片段 | 原文 | 漏听原因 | 跟读后能听清？ |
 |-----------|------|---------|---------------|

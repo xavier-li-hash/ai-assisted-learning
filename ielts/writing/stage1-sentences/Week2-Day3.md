@@ -190,6 +190,7 @@ that 代替前面的 GDP，GDP 属于某国用 of：**the GDP of China vs that o
 话题：**政府加大教育投入的效果**
 ```
 （写出完整句子）
+If government invest more in education, the quality of nation will improve.
 ```
 
 ---
@@ -199,6 +200,7 @@ that 代替前面的 GDP，GDP 属于某国用 of：**the GDP of China vs that o
 > 要求：unless 后面接肯定句
 ```
 （写出完整句子）
+Unless take an international level action, the greenhouse effect will develop more serious.
 ```
 
 ---
@@ -208,6 +210,7 @@ that 代替前面的 GDP，GDP 属于某国用 of：**the GDP of China vs that o
 > 要求：结合 Day 2 词汇：employees / productivity / access to
 ```
 （写出完整句子）
+Provided that employees work from home, the overall productivity will decrease due to higher cost of communication and co-operation.
 ```
 
 ---
@@ -215,7 +218,8 @@ that 代替前面的 GDP，GDP 属于某国用 of：**the GDP of China vs that o
 **句4** 句型：**让步句（Despite）+ 条件句（if）组合**
 话题：**城市化带来的问题，以及可能的解决方案**
 > 要求：第一分句用 Despite，第二分句用 if
-```
+```Despite excessive urbanization has some nagetive effects, its advantages such modern productivity methods and co-operation outweight them.
+And if the government invest more in city planning, the drawbacks including imbalance between wildlife and ecosystem will decrease.
 （写出完整句子）
 ```
 
@@ -226,6 +230,7 @@ that 代替前面的 GDP，GDP 属于某国用 of：**the GDP of China vs that o
 > 要求：必须包含不可数名词（social media / advice / information），且不加 s
 ```
 （写出完整句子）
+Teengers have been using social media execesively in recent years, which leads to nagetive impact on academic performance and physical and mental health.
 ```
 
 ---
@@ -235,6 +240,7 @@ that 代替前面的 GDP，GDP 属于某国用 of：**the GDP of China vs that o
 > 要求：access to 用一次；for decades 或具体年份用一次
 ```
 （写出完整句子）
+While developed countries have reformed more laws to protect environment,  alleviating different pollution problems, including less emition of carban diocide, most developing countries are still trying to sacrify environment to promote/boost their economy development.
 ```
 
 ---
@@ -244,6 +250,8 @@ that 代替前面的 GDP，GDP 属于某国用 of：**the GDP of China vs that o
 > 要求：包含具体人群或数据；包含现在完成时（has/have + 过去分词）
 ```
 （写出完整句子）
+Artificial intelligence has been adoptted in medical area, thereby improving efficiency of treatment to every patient.
+诊断的单词是？提高医生诊断的效率 
 ```
 
 ---
@@ -303,27 +311,35 @@ While [A] increased significantly, [B] showed a steady decline over the same per
 
 **L-1.** 用 `peaked at` 描述北京的最高值：
 ```
-（写出完整句子）
+After a stead rising, Beijing peaked at 115 in 2010.
+或者： Beijing peaked at 115 in 2010, beforing falling to 55 by 2020.
+或者： Having peaked at 115 in 2010, Beijing experienced a sharp decline.
 ```
 
 **L-2.** 用 `declined steadily` 描述某城市的下降趋势：
 ```
-（写出完整句子）
+After rising to 65 in 2005, Shanghai declined steadily.
+Shanghai declined steadily from 65 to 35 between 2005 and 2020.
 ```
 
 **L-3.** 用 `remained relatively stable` 写一句（提示：哪个城市哪段时间变化最小？）：
 ```
-（写出完整句子）
+Shanghai remained relatively stable at around 60 from 2000 to 2010.
 ```
 
 **L-4.** 用 `While A..., B...` 对比两个城市在 2000–2010 年的不同趋势：
 ```
-（写出完整句子）
+While Beijing rose slightly from 95 to 115 between 2000 and 2010, Shanghai saw a stable trend through the same period.
 ```
 
 **L-5.** 写一句 Overview（Overall 开头，概括两城市最显著特征，不写具体数字）：
 ```
-（写出完整句子）
+Overall, it is clear that Beijing experienced considerable flutucation  over the period, while Shanghai remained relatively stable and dropped slightly after 2015. Further more, the figure level of Beijing was consistently high than that of Shanghai. However, both two cities tended to show a decrease trend in recent years.
+```
+
+```
+疑问：
+保持稳定有多少个说法?
 ```
 
 **自查：**

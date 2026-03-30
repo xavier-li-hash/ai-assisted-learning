@@ -55,19 +55,19 @@
 **Summary（填写空格，每空1–3个词）：**
 
 ```
-The development of plastics began as an attempt to find (1) _____________ for
-natural substances. Celluloid was first produced in the 19th century by (2) _____________,
-after a contest was organised to replace ivory, which had caused the (3) _____________
+The development of plastics began as an attempt to find (1) ____alternative material_________ for
+natural substances. Celluloid was first produced in the 19th century by (2) ___John Wesley Hyatt__________,
+after a contest was organised to replace ivory, which had caused the (3) ___killing__________
 of large numbers of elephants.
 
 In the 20th century, Bakelite became significant because, unlike earlier materials,
-it retained its (4) _____________ when exposed to heat. It was therefore widely used
-in (5) _____________ and industrial products.
+it retained its (4) _____shape_____ when exposed to heat. It was therefore widely used
+in (5) _____electrical insulators________ and industrial products.
 
-After World War II, the (6) _____________ of plastics expanded rapidly thanks to
+After World War II, the (6) ____production_________ of plastics expanded rapidly thanks to
 developments in petrochemical technology. Although plastics replaced many traditional
-materials, concerns emerged about their (7) _____________ on the environment, since
-they are difficult to (8) _____________ and can remain in nature for centuries.
+materials, concerns emerged about their (7) _____impact________ on the environment, since
+they are difficult to (8) _____dispose________ and can remain in nature for centuries.
 ```
 
 ---
@@ -110,16 +110,16 @@ they are difficult to (8) _____________ and can remain in nature for centuries.
 
 | 词/短语 | 含义（写出来）|
 |---------|-------------|
-| deteriorate | |
-| resilience | |
-| subsequent | |
-| advocate | |
-| inconclusive | |
-| disperse | |
-| perceive | |
-| incentive | |
-| replicate | |
-| ubiquitous | |
+| deteriorate | 恶化 |
+| resilience | 弹性 |
+| subsequent | 随后的 |
+| advocate | 提倡 |
+| inconclusive | 非决定性的 |
+| disperse | 分散|
+| perceive |认知，理解 |
+| incentive | 刺激，动机|
+| replicate | 复制 |
+| ubiquitous |普遍存在的；无所不在的 |
 
 ---
 
@@ -127,16 +127,16 @@ they are difficult to (8) _____________ and can remain in nature for centuries.
 
 | 含义 | 英文词 |
 |------|--------|
-| 放弃 | |
-| 限制（v） | |
-| 机制 | |
+| 放弃 | give up |
+| 限制（v） | limit, restrict|
+| 机制 | mechanism|
 | 虚伪 | |
-| 韧性 | |
-| 修订 | |
-| 补贴（v） | |
-| 扩散（v） | |
-| 后代 | |
-| 拥堵 | |
+| 韧性 | resilience|
+| 修订 | modify,reform |
+| 补贴（v） |  |
+| 扩散（v） |  |
+| 后代 |descentdence |
+| 拥堵 | congestion |
 
 ---
 
@@ -145,16 +145,16 @@ they are difficult to (8) _____________ and can remain in nature for centuries.
 用括号内的词替换划线部分，使句意不变：
 
 1. Scientists **found** a new compound that reduces inflammation.
-   （替换 found → ___________）[identified / revealed / discovered]
+   （替换 found → _____ discovered______）[identified / revealed / discovered]
 
 2. The results were **not definitive**, so further research is needed.
-   （替换 → ___________）[inconclusive / ambiguous]
+   （替换 → ______inconclusive_____）[inconclusive / ambiguous]
 
 3. The policy **caused** widespread protests across the country.
-   （替换 → ___________）[led to / gave rise to / triggered]
+   （替换 → ______led to_____）[led to / gave rise to / triggered]
 
 4. Experts **support** stricter regulations on carbon emissions.
-   （替换 → ___________）[advocate for / endorse / champion]
+   （替换 → ____advocate for_______）[advocate for / endorse / champion]
 
 ---
 
@@ -170,12 +170,12 @@ they are difficult to (8) _____________ and can remain in nature for centuries.
 ---
 
 **本周3大收获：**
-1.
-2.
+1. 边读边做全部题型，只读一遍文章，坚持这个原则，不然阅读越多，信息越多越过载越难处理，越需要反复来回看，这样不现实；没有完全确认的标记颜色；匹配型的，没看完一段，看所有题目，并使用技巧快速排除；最新的练习,part3只花了16分钟，由于第一次彻底使用这个方法，没有做好看完一遍做完全部相关的题目，到最后读完了发现有些没做好，这个时候，多个段落尤其可能有相似信息的地方会造成难度上升
+2. 最近一次练习，part1, 16分钟完成，正确率100%；如果保持这个水平，再进步一点，那么8分阅读不难，13+11+11
 3.
 
 **本周仍然薄弱的地方：**
-1.
+1. T/F/NG题目，最好在第一次阅读到相关段落时就把题目做了
 2.
 
 **下周重点方向（根据薄弱点填写）：**

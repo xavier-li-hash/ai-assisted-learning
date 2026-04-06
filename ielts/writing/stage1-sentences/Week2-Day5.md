@@ -17,17 +17,17 @@
 
 **RA1.** 改正被动语态：AI _____ in the medical field.（AI 被采用）
 ```
-→
+→ is adopted
 ```
 
 **RA2.** 改正主谓一致：Urban areas where air quality is poor _____ higher rates of disease.（用 be more likely to have）
 ```
-→
+→ 没明白这个题目要问什么，改哪里，给出的句子poor然后higher好像有问题。likely to have
 ```
 
 **RA3.** 改正句型：Renewable energy has been widely adopted, _____ helps reduce fuel consumption.（填 which/who/where）
 ```
-→
+→ which
 ```
 
 ---
@@ -38,22 +38,22 @@
 
 **RB1.** 人工智能（你写过 4 次 intellegence）
 ```
-→ Artificial
+→ Artificial intelligence
 ```
 
 **RB2.** 有益的（你写过 benefitial）
 ```
-→
+→ beneficial
 ```
 
 **RB3.** 因此（你写过 there by）
 ```
-→
+→ thereby
 ```
 
 **RB4.** 经济的（形容词，修饰 development）
 ```
-→
+→ economic
 ```
 
 ---
@@ -67,7 +67,7 @@
 > 要求：Although online learning has some limitations, it still...；包含具体优点
 
 ```
-（写出完整句子）
+要求：Although online learning has some limitations, it still can be more convenient and affordable.
 
 ```
 
@@ -78,7 +78,7 @@
 > 要求：Despite + 名词短语（不能跟完整句子！）；后半句写年轻人的应对或影响
 
 ```
-（写出完整句子）
+Despite high price of the house in urban area, the young never give up to earn enough money to buy one.
 
 ```
 
@@ -89,8 +89,9 @@
 > 要求：While developed countries..., developing countries...；包含 environmental regulations
 
 ```
-（写出完整句子）
+While developed countries have been improving environmental regulations to avoid more deterioration, developing countries are still try to sacrific ecosystem to change economic development.
 
+完善法规等
 ```
 
 ---
@@ -100,7 +101,7 @@
 > 要求：明确写出两者对比；包含具体方面（成本/环境/效率）
 
 ```
-（写出完整句子）
+Burning renewable energy has less carbon dioxide emission than fossil fuel, thereby helping to protect our environment. 
 
 ```
 
@@ -111,7 +112,7 @@
 > 要求：用 as productive as 或 not as effective as
 
 ```
-（写出完整句子）
+Working from home is not as productive as working in office.
 
 ```
 
@@ -122,7 +123,7 @@
 > 要求：Although/While 引导让步；句中包含一个 which 或 who 的定语从句
 
 ```
-（写出完整句子）
+Although social media provides an active community for them to share ideas and receive value information, it also leads to exposure to unhealthy content, which can hurt their growth.  
 
 ```
 
@@ -133,7 +134,8 @@
 > 要求：包含具体数据方向（workforce / healthcare / pension）；包含本周词汇之一（economic / emission / diagnose / sacrifice）
 
 ```
-（写出完整句子）
+
+The aging of population has been causing serious problems, such as fewer workforce and the rising of healthcare expendure, thereby affecting economic development.
 
 ```
 
@@ -246,31 +248,31 @@ Together, [A] and [B] accounted for over half of the total.
 
 **P-1.** 用 `accounted for the largest share` 描述最大类别：
 ```
-（写出完整句子）
+Housing accounted for the largest share at 35%.
 
 ```
 
 **P-2.** 用 `made up nearly` 描述食品类别：
 ```
-（写出完整句子）
+Food made up nearly one qurter of the total, at approximately 25%.
 
 ```
 
 **P-3.** 用 `Together... accounted for` 合并描述交通和教育：
 ```
-（写出完整句子）
+Together, transportion and education accounted for around 30%. 
 
 ```
 
 **P-4.** 用 `was significantly larger than` 进行对比（住房 vs 其他）：
 ```
-（写出完整句子）
+Housing was significantly larger than the other, at 35%.
 
 ```
 
 **P-5.** 写一句 Overview（Overall 开头，不写具体数字，概括最显著特征）：
 ```
-（写出完整句子）
+Overall, it is clear that housing accounted the largest proportion of the total, which led to considerable pressure for most citizens. And then, food, transport and education combined represented over half of the total, within a smallest share of the other.
 
 ```
 

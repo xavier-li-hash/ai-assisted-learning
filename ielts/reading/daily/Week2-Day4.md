@@ -248,7 +248,54 @@ In many large cities, the wind is not strong enough to clear the air of the mass
 刚才这题答错，是因为看完A段就选择了。而在看后面的题目时，没有再仔细确认这个。
 选择题不能取消选择，不确认时先别答，如回答了，后面每读一段都还要再确认。
 
----
+##
+Many studies have demonstrated that 38 (B. neuron activity decreases if outcomes become predictable.
+
+Numerous studies, after all, have demonstrated that dopamine neurons quickly adapt to predictable rewards.
+- 多巴胺神经元能够迅速适应可预测的情况=等于结果可预测会降低分泌
+
+- were at their most active around 15 seconds before the participants’ favourite moments in the music.
+
+- neuron activity increases prior to key points in a musical piece
+-  prior提前， most active -increases
+
+- 贝多芬所做的反而是建议模式的变化。 他想在他的音乐中保留一些不确定因素，让我们的大脑乞求他拒绝给予我们的一个和弦。 
+-  emotive music delays giving listeners what they expect to hear
+
+- He attempted to counter the effect of clouding that sometimes occurred in blown glass by introducing lead to the raw materials used in the process.
+
+th century: George Ravenscroft developed a process using 6 materials __ to avoid the occurrence of 7 clouding  in blown glass.
+
+这道题lead是铅的意思；
+
+帮我总结所有在雅思中容易出现的多义词，并且常见意思和冷僻含义和词性完全不同的
+
+
+- Archaeologists have even found evidence of man-made glass which dates back to 4000 BC; this took the form of glazes used for coating stone beads.
+
+给你的阅读提分小建议 (Big Picture Applied)
+这道题其实体现了雅思阅读填空题的一个典型规律：主动/被动语态的转换。
+
+原文：Glazes (A) coated beads (B). (A 涂在了 B 上)
+
+题干：Beads (B) were covered by A. (B 被 A 覆盖了)
+
+你在做 IELTS Reading 练习时，如果发现定位句里有 "A coat B" 或 "A layer of..."，一定要敏锐地去寻找被涂抹的那个宾语。
+
+
+###  题目 Mid-19th century: British glass production developed after changes to lawsconcerning 8 semi-automatic (taxes) 
+- 正确的原文：In Britain, the modem glass industry only really started to develop after the repeal of the Excise Act in 1845
+- 错误的原文 From 1887 onwards, glass making developed from traditional mouth-blowing to a semi-automatic process, after factory- owner HM
+- 分析：1887不是18世界中，而是末
+
+
+### 题目：It is more expensive to produce recycled glass than to manufacture new glass。
+- 原文：As less energy is needed to melt recycled glass than to melt down raw materials, this also saves fuel and production costs. Recycling also reduces the need for raw materials to be quarried, thus saving precious resources.  
+- 我选择了NG；因为我认为原文只是说部分的节省，比如融化原材料，更少能源和资源的需要，但是没有提到整体上是节约了。所以我认为NG；
+- 我忽略了 production costs
+- 你在做题时，如果产生“虽然……但是……”或者“不一定吧，万一……”这种想法时，赶紧踩刹车！
+- 雅思阅读的 T/F/NG 就像是一台只运行简单 IF-ELSE 逻辑的计算机： IF (Topic_A == Topic_B && Sentiment_A == !Sentiment_B) RETURN FALSE;
+
 
 ## 八、答案
 

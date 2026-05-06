@@ -608,3 +608,14 @@ In conclusion, it is obvious that meida platfoms have been connecting the world 
 - excessive
 - overuse
 - given that
+- regardless
+
+### 有害的，不利的
+- detrimental
+- unfavourable
+
+- inadequacy
+
+## 焦虑、抑郁
+- anxiety
+- depression
